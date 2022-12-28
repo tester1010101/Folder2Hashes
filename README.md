@@ -1,4 +1,4 @@
-# Folder2Hashes :briefcase: :fountain_pen:
+# Folder2Hashes (v1.2) :briefcase: :fountain_pen:
 * :pushpin: Gets the Hash values (SHA-256) of the target location.
 * :clipboard: Prompts user to open the dump location, for backup/printing purposes.
 * :date: Files are saved with the date/time so it's easier for multiple backups.
